@@ -51,5 +51,5 @@ This project provided practical experience in transforming raw data into an inte
 
 **Rohith Krishna K**
 
-GitHub:https://github.com/rohithkrishna-k
+GitHub:https:https://github.com/rohithkrishna-k/Rohith-Krishna-K
 LinkedIn:https://www.linkedin.com/in/rohith-krishna-k/
